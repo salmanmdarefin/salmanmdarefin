@@ -1,6 +1,7 @@
+(https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/59522807_2266619796922519_4915652321527988224_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeHWNikjGH9WO-28Fx5bpt_a3HMY4qeIMgfccxjip4gyB_oLCW_ek0Jnrvfqiwg3an4G2kuDI2YnnBVecXkuA8Na&_nc_ohc=0s9Sb3Q8PqcAX8043Yy&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8ZUJFVW8GM0zsiu-zlQxiHA8HhJUTVDMqXXHuqZrWiOw&oe=62E50944)
 ### Hi there 👋, I am Md. Salman Arefin.
 #### Student
-![Student](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/59522807_2266619796922519_4915652321527988224_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeHWNikjGH9WO-28Fx5bpt_a3HMY4qeIMgfccxjip4gyB_oLCW_ek0Jnrvfqiwg3an4G2kuDI2YnnBVecXkuA8Na&_nc_ohc=0s9Sb3Q8PqcAX8043Yy&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8ZUJFVW8GM0zsiu-zlQxiHA8HhJUTVDMqXXHuqZrWiOw&oe=62E50944)
+![Student]
 
 I am a self-motivated individual that is enthusiastic about software quality assurance. I am well-versed in industry QA procedures as well as the Software Development Life Cycle (SDLC). I a fresh graduate. My areas of experience include the creation of test plans and test cases as well as bug reporting.
 
