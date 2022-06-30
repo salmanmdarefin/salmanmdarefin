@@ -22,4 +22,4 @@ Skills: SQA Process, SDLC, STLC, Agile, Bug Tracking, Test Case Writing, SRS wri
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=salmanmdarefin)  
 
-![Profile views](https://gpvc.arturio.dev/salmanmdarefin)  
+
