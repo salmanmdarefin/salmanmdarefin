@@ -2,7 +2,7 @@
 # Hi there 👋, I am Md. Salman Arefin.
 ## Student
 
-I am a self-motivated individual that is enthusiastic about software quality assurance. I am well-versed in industry QA procedures as well as the Software Development Life Cycle (SDLC). I am a fresh graduate. My areas of experience include the creation of test plans and test cases as well as bug reporting.
+I am self-motivated individual who is enthusiastic about Software Quality Assurance. I am well-versed in industry QA procedures as well as the Software Development Life Cycle (SDLC). I am fresh graduate and creation of test plans, SRS document, test cases as well as bug reporting is my areas of experience.
 
 Skills: SQA Process, SDLC, STLC, Agile, Bug Tracking, Test Case Writing, SRS writing, Project Management, Jira.
 
