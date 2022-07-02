@@ -1,4 +1,4 @@
-![Student](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/59522807_2266619796922519_4915652321527988224_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=19026a&_nc_eui2=AeHWNikjGH9WO-28Fx5bpt_a3HMY4qeIMgfccxjip4gyB_oLCW_ek0Jnrvfqiwg3an4G2kuDI2YnnBVecXkuA8Na&_nc_ohc=0s9Sb3Q8PqcAX8043Yy&_nc_ht=scontent.fdac5-2.fna&oh=00_AT8ZUJFVW8GM0zsiu-zlQxiHA8HhJUTVDMqXXHuqZrWiOw&oe=62E50944)
+![I am GitHub Readme Generator's creator](https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/291924796_3167652510152572_5658044740985482065_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHo-B61uXBIF_2qnEvfhf7lO3VY_pxoW0k7dVj-nGhbSR4vAlt00_W9a_T9Q4Cnl_JNjPXVegLM7z-BEy4e7Wzh&_nc_ohc=ueVDukDfJekAX9qseN3&_nc_ht=scontent.fdac5-1.fna&oh=00_AT8ItcaygnOJ4tguDbBA4bPM35OpgBWHGyxTDKMWfJ99tA&oe=62C47AAA)
 # Hi there 👋, I am Md. Salman Arefin.
 ## Student
 
@@ -10,9 +10,9 @@ Skills: SQA Process, SDLC, STLC, Agile, Bug Tracking, Test Case Writing, SRS wri
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=salmanmdarefin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=salmanmdarefin)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmdarefin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmdarefin)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmdarefin&show_icons=true&count_private=true)  
 
