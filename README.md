@@ -3,7 +3,7 @@
 # Hi there 👋, I am Md. Salman Arefin.
 I am a self-motivated individual who is passionate about Software Quality Assurance. I have a strong understanding of industry QA procedures and the Software Development Life Cycle (SDLC). I hold a graduation degree from American International University-Bangladesh.
 
-My areas of expertise include the creation of automation test scripts using Cypress, writing manual test cases and test plans, as well as bug reporting. I am skilled in SQA processes, SDLC and STLC, Agile methodologies, and web UI automation with Cypress. Additionally, I have experience in test script writing and execution, manual test case writing and execution, SRS (Software Requirements Specification) writing, project management, and bug tracking using tools like Jira.
+My areas of expertise include the creation of automation test scripts using Cypress, writing manual test cases and test plans, as well as bug reporting. I am skilled in SQA processes, SDLC and STLC, Agile methodologies, and web UI automation with Cypress. Additionally, I have experience in test script writing and execution, manual test case writing and execution, SRS (Software Requirements Specification) writing, project management, and bug tracking using tools like Jira and Azure DevOps.
 
 I am committed to delivering high-quality software and ensuring the best user experience. I am always eager to learn and grow in my field, and I thrive in dynamic and challenging environments.
 
